@@ -1,7 +1,7 @@
-<h2 style="color: #C27349;">Hi, I'm BenjiaCora.</h2>
+# Hi, I'm BenjiaCora.
 
-[Bilibili](https://b23.tv/laqKOIB)
+ [Bilibili](https://b23.tv/laqKOIB)
 
-Studying hard...
+ Studying hard...
 
 - Love Agents, Music & ACG Creation.
