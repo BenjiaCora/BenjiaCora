@@ -1,4 +1,4 @@
-### $\color{#D2691E}{\textsf{Hi, I'm BenjiaCora.}}$
+### $\color{#D2691E}{\texttt{Hi, I'm BenjiaCora.}}$
 
 [Bilibili](https://b23.tv/laqKOIB)
 
