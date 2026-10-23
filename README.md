@@ -1,8 +1,6 @@
-<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='36' width='260'%3E%3Ctext x='0' y='28' fill='%23D2691E' font-size='30' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-weight='600'%3EHi, I'm BenjiaCora.%3C/text%3E%3C/svg%3E" alt="Hi, I'm BenjiaCora." height="36" align="left">
-
-<br clear="left"/>
-
-Student · AI Enthusiast
+<h1 style="color: #D2691E; font-family: 'Consolas', 'Courier New', monospace; font-weight: bold; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
+  Hi, I'm BenjiaCora.
+</h1>
 
 [Bilibili](https://b23.tv/laqKOIB)
 
