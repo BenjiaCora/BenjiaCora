@@ -1,6 +1,8 @@
-![Hi, I'm BenjiaCora.](https://svg-banners.vercel.app/api?type=text&text1=Hi,+I'm+BenjiaCora.&color1=C27349&font=Fira+Code&width=600&height=100)
+<h2 style="color: #d2691e; font-weight: 600; margin-bottom: 16px;">Hi, I'm BenjiaCora.</h2>
 
-[Bilibili](https://b23.tv/laqKOIB) · [Leetcode](https://leetcode.cn/u/BenjiaCora/)
+<div style="margin-bottom: 16px;">
+  <a href="https://b23.tv/laqKOIB" target="_blank" style="background-color: #f6f8fa; padding: 3px 6px; border-radius: 6px; color: #0969da; text-decoration: underline; font-size: 14px; font-family: monospace; display: inline-block;">Bilibili</a>
+</div>
 
-- 📚 Studying hard...
-- 🚀 Love Agents, Music & ACG Creation.
+- Studying hard...
+- Love Agents, Music & ACG Creation.
