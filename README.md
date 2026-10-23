@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+BenjiaCora.;color=C27349&size=36&font=Fira+Code)](https://git.io/typing-svg)
+![Hi, I am BenjiaCora.](https://img.shields.io/badge/Hi,_I'm_BenjiaCora.-%23C27349?style=flat-square&logoColor=white)
+ 
+     [Bilibili](https://b23.tv/laqKOIB)
 
- [Bilibili](https://b23.tv/laqKOIB)
-
- Studying hard...
+- Studying hard...
 
 - Love Agents, Music & ACG Creation.
