@@ -1,4 +1,4 @@
-![Hi, I'm BenjiaCora.](https://readme-typing-svg.demolab.com?lines=Hi%2C+I%27m+BenjiaCora.&color=C27349&font=Fira+Code&size=32&duration=1)
+![Hi, I'm BenjiaCora.](https://svg-banners.vercel.app/api?type=text&text1=Hi,+I'm+BenjiaCora.&color1=C27349&font=Fira+Code&width=600&height=100)
 
 [Bilibili](https://b23.tv/laqKOIB) · [Leetcode](https://leetcode.cn/u/BenjiaCora/)
 
