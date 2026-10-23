@@ -1,6 +1,6 @@
-![Hi, I am BenjiaCora.](https://img.shields.io/badge/Hi,_I'm_BenjiaCora.-%23C27349?style=flat-square&logoColor=white)
- 
-     [Bilibili](https://b23.tv/laqKOIB)
+### <code><font color="#C27349">Hi, I'm BenjiaCora.</font></code>
+
+[Bilibili](https://b23.tv/laqKOIB) · [Leetcode](https://leetcode.cn/u/BenjiaCora/)
 
 - Studying hard...
 
