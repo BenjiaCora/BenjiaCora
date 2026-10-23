@@ -1,6 +1,4 @@
-<h1 style="color: #D2691E; font-family: 'Consolas', 'Courier New', monospace; font-weight: bold; letter-spacing: 1px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
-  Hi, I'm BenjiaCora.
-</h1>
+### <font color="#D2691E">Hi, I'm BenjiaCora.</font>
 
 [Bilibili](https://b23.tv/laqKOIB)
 
