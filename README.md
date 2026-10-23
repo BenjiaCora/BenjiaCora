@@ -1,10 +1,8 @@
 <div align="left">
-  <a href="https://github.com/BenjiaCora">
-    <img src="https://placehold.co/350x45/transparent/D2691E?text=Hi,+I'm+BenjiaCora.&font=montserrat" alt="Hi, I'm BenjiaCora." height="35" align="left" />
-  </a>
+  <svg height="35" width="280" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="26" fill="#D2691E" font-size="26" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Hi, I'm BenjiaCora.</text>
+  </svg>
 </div>
-
-<br clear="left"/>
 
 Student · AI Enthusiast
 
